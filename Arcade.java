@@ -13,7 +13,7 @@ public class Arcade {
 
     public Arcade() {
         //Uses file locations to retrieve games.
-        gamesDirectory = "TBArcade_copy\\gameCollection";
+        gamesDirectory = "gameCollection";
         gameFolder = new File(gamesDirectory);
         gameList = gameFolder.listFiles();
 
