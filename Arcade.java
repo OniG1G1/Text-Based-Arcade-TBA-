@@ -72,6 +72,7 @@ public class Arcade {
         String game;
 
         System.out.println("Welcome to Gigi's TBArcade (Text-Based Arcade).");
+        System.out.println("....and this was a lil' edit I made in Github.");
         System.out.println("Please pick a game to play out of the list below:");
 
         listGames();
